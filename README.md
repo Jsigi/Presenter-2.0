@@ -6,3 +6,9 @@ Die Presenter-App ermöglicht es Organisationen und Unternehmen, Inhalte auf meh
 Goal
 Die Entwicklung einer neuen Presenter-Applikation, die eine einfache Installation ermöglicht und Änderungen in Echtzeit übernimmt. 
 Die Kommunikation zwischen Client und Server wird über WebSockets realisiert, um eine schnelle und effiziente Synchronisation zu gewährleisten.
+
+Functions 
+Zentrale Steuerung über einen Host, 
+Client-Management (Öffentlich vs. Privat), 
+Anzeige einer Fehlermeldung, 
+Einfache Installation & Konfiguration 
